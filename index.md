@@ -1,3 +1,6 @@
+---
+permalink: /index.html
+---
 # USDT永续合约API文档
 
 **更新说明**：
